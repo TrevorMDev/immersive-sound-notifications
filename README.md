@@ -11,9 +11,9 @@ Supported events:
 - Cannon out of ammo or broken
 - Slaughter bracelet breaking
 - Low prayer
- - Scales volume based on current prayer %, maxing at 0 prayer.
- - Under 50% prayer, plays every 5% change.
- - Under 10% prayer, plays every 2% change.
+  - Scales volume based on current prayer %, maxing at 0 prayer.
+  - Under 50% prayer, plays every 5% change.
+  - Under 10% prayer, plays every 2% change.
 
 The sound effects can be changed(using in game soundIds) but the triggered events cannot.
 This is to limit the power of the plugin and avoid the need to disable it in tons of locations like WatchDog.
