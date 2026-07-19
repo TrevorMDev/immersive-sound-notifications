@@ -4,7 +4,7 @@
 
 ---
 
-This plugin adds sound queues for specific events.
+This plugin adds sound effects for specific events.
 
 Supported events:
 - Divine expired
